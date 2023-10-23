@@ -1,0 +1,49 @@
+
+li {
+    float: left;
+}
+li a {
+    display: block;
+    padding:16px 16px;
+    color:white;
+    text-decoration:none; 
+}
+body{
+    text-align: center;
+}
+.list{
+    margin-left:0px;
+    margin-right:0px;;
+}
+.jumbotron{
+    text-align: center;
+}
+ul {
+    list-style-type: disc;
+}
+ul {
+    display: inline-block;
+}
+
+body{
+ background-color: #E9ECEF;
+}
+
+.card-deck{
+    margin-left:
+    padding bottom;
+}
+.container{
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+.card {
+    border-radius: 10px;
+    margin-top: 10px;
+    text-align: left;
+}
+.my-card-text{
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+}
